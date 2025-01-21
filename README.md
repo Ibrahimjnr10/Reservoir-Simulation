@@ -18,7 +18,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/reservoir-simulation.git
+git clone https://github.com/Ibrahimjnr10/reservoir-simulation.git
 cd reservoir-simulation
 Install dependencies:
 bash
@@ -27,13 +27,12 @@ Edit
 pip install -r requirements.txt
 
 ### Usage
-Configure reservoir properties in Res_properties() (grid size, fluid properties, etc.).
-Define well locations, types (producers/injectors), and operating conditions.
-Run the simulation:
-bash
-Copy
-Edit
-res_simul.ipynb
+
+- Configure reservoir properties in Res_properties() (grid size, fluid properties, etc.).
+- Define well locations, types (producers/injectors), and operating conditions.
+- Run the simulation:
+bash Copy Edit res_simul.ipynb
+
 Visualize results with 3D pressure maps.
 Results
 Pressure maps for time steps 
