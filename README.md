@@ -3,7 +3,7 @@ This project focuses on simulating pressure distribution in a reservoir
 
 ### Overview
 This project simulates pressure distribution in a 2D reservoir grid, incorporating well configurations and operational conditions. The results help understand reservoir behavior and well interactions.
-
+Link to Documentation on Approach, Advisably for Non Technical Audience https://medium.com/@abdulsalamibrahima017/reservoir-simulation-for-pressure-distribution-4abfcb65989b
 ### Features
 Simulates pressure changes over time for producers and injectors.
 Efficient sparse matrix implementation for large grids.
@@ -39,7 +39,7 @@ Requirements
 - NumPy, SciPy, Matplotlib
 Installation
 - Clone the repository:
-git clone https://github.com/yourusername/reservoir-simulation.git  
+git clone https://github.com/Ibrahimjnr10/Reservoir-Simulation.git  
 cd Reservoir-Simulation 
 - Install dependencies:
 pip install -r requirements.txt 
@@ -51,18 +51,17 @@ pip install -r requirements.txt
 - Run the simulation:
 python res_simul.ipynb
 
- Visualize results with 3D pressure maps.
+Visualize results with 3D pressure maps.
 Results
 Pressure maps for time steps 
 t=3,
 t=20, and 
 t=50.
 
-Insight into flow dynamics near wells.
 
 ### License
 This project is licensed under the MIT License.
 
 ### Contact
-For questions, Ibrahim Abdulsalam
+For questions, abdulsalamibrahima017@gmail.com
 
