@@ -33,7 +33,7 @@ pip install -r requirements.txt
 - Run the simulation:
 bash Copy Edit res_simul.ipynb
 
-Visualize results with 3D pressure maps.
+  Visualize results with 3D pressure maps.
 Results
 Pressure maps for time steps 
 𝑡
@@ -50,9 +50,9 @@ t=20, and
 t=50.
 Insight into flow dynamics near wells.
 
-# License
+### License
 This project is licensed under the MIT License.
 
-# Contact
+### Contact
 For questions, Ibrahim Abdulsalam
 
